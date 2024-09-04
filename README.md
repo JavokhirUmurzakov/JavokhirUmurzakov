@@ -41,7 +41,7 @@
             src="https://github-profile-trophy.vercel.app/?username=JavokhirUmurzakov&theme=matrix&margin-h=15&column=5&margin-w=10" alt="javokhirumurzakov" /></a>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/qobulovasror?theme=dark&font=Abel&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JavokhirUmurzakov?theme=dark&font=Abel&ext=activity)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavokhirUmurzakov&show_icons=true&locale=en&layout=compact" alt="javokhirumurzakov" /></p>
 
