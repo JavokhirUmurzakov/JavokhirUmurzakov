@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://javokhirumurzakov.uz/](https://javokhirumurzakov.uz/)
 
-- 💬 Ask me about **React, React Naive, NodeJs**
+- 💬 Ask me about **Python, Django,DRF, SQlite, Postgresql, SQL, HTML ,CSS**
 
 - 📫 How to reach me **javokhiruz2002@gmail.com**
   
