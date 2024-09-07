@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **javokhiruz2002@gmail.com**
   
-- ⚡⚡ Fun fact ****I think,I'm funny person!***
+- ⚡ Fun fact ****I think,I'm funny person!***
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
