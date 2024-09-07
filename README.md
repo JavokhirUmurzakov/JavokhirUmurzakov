@@ -1,4 +1,3 @@
-![web_d_gif](https://github.com/JavokhirUmurzakov/JavokhirUmurzakov/assets/71517683/7c80e82b-dcb8-4517-9b8d-f1cd2616ad17)
 
 <h1 align="center">Hi 👋, I'm Javokhir Umurzakov</h1>
 <h3 align="center">I'm FullStack Web Develover from Uzbekistan!</h3>
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me **javokhiruz2002@gmail.com**
   
-- ⚡Fun fact love Error
+- ⚡⚡ Fun fact ****I think,I'm funny person!***
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
