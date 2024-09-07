@@ -1,4 +1,4 @@
-![web_d_gif](https://github.com/qobulovasror/qobulovasror/assets/71517683/7c80e82b-dcb8-4517-9b8d-f1cd2616ad17)
+![web_d_gif](https://github.com/JavokhirUmurzakov/JavokhirUmurzakov/assets/71517683/7c80e82b-dcb8-4517-9b8d-f1cd2616ad17)
 
 <h1 align="center">Hi 👋, I'm Javokhir Umurzakov</h1>
 <h3 align="center">I'm FullStack Web Develover from Uzbekistan!</h3>
@@ -23,15 +23,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/qobulovasror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/qobulovasror" height="30" width="40" /></a>
-<a href="https://dev.to/qobulovasror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/qobulovasror" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asrorqobulov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asrorqobulov/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bcp1ujojaq2abgvslbtvw2q%3d%3d" height="30" width="40" /></a>
+<a href="https://codepen.io/JavokhirUmurzakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/JavokhirUmurzakov" height="30" width="40" /></a>
+<a href="https://dev.to/JavokhirUmurzakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/qobulovasror" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/JavokhirUmurzakov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/JavokhirUmurzakov/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bcp1ujojaq2abgvslbtvw2q%3d%3d" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18425323/asror-qobulov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18425323/asror-qobulov" height="30" width="40" /></a>
-<a href="https://codesandbox.com/u/qobulovasror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/qobulovasror" height="30" width="40" /></a>
-<a href="https://www.facebook.com/asror.qobulov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/asror.qobulov/" height="30" width="40" /></a>
-<a href="https://instagram.com/javokhir_umurzakov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/asrorqobulov_2001/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@qobulovasror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@qobulovasror" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/qobulovasror/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/qobulovasror/" height="30" width="40" /></a>
+<a href="https://codesandbox.com/u/JavokhirUmurzakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/JavokhirUmurzakov" height="30" width="40" /></a>
+<a href="https://www.facebook.com/JavokhirUmurzakov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/JavokhirUmurzakov/" height="30" width="40" /></a>
+<a href="https://instagram.com/javokhir_umurzakov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/umurzakov_javokhir/" height="30" width="40" /></a>
+<a href="https://hashnode.com/@qobulovasror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
