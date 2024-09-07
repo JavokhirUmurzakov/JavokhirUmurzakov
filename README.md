@@ -22,6 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://t.me/umurzakov_javokhir" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2021/11/telegram-logo.png" alt="umurzakov_javokhir" height="45" width="40" /></a>
 <a href="https://codepen.io/JavokhirUmurzakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/JavokhirUmurzakov" height="30" width="40" /></a>
 <a href="https://dev.to/JavokhirUmurzakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/qobulovasror" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/JavokhirUmurzakov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/JavokhirUmurzakov/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bcp1ujojaq2abgvslbtvw2q%3d%3d" height="30" width="40" /></a>
