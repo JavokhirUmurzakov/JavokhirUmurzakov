@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django, DRF and Postgresql**
 
-- 👨‍💻 All of my projects are available at [https://javokhirumurzakov.uz/](https://javokhirumurzakov.uz/)
+- 👨‍💻 All of my projects are available at [https://javokhir-umurzakov.uz/](https://javokhir-umurzakov.uz/)
 
 - 💬 Ask me about **Python, Django,DRF, SQlite, Postgresql, SQL, HTML ,CSS**
 
