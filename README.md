@@ -16,7 +16,6 @@
   
 - ⚡ Fun fact ****I think,I'm funny person!***
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
