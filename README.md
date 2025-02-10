@@ -45,7 +45,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="github" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="github" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="github" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/44/1/kali-linux-logo-png_seeklogo-444792.png" alt="github" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.pkisolutions.com/wp-content/uploads/2024/01/microsoft-server-2019-2.png" alt="github" width="40" height="40"/> </a>
 
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
