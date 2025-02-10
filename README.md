@@ -42,6 +42,10 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg" alt="digital-ocean" width="40" height="40"/> </a>
 <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="github" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="github" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="github" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="github" width="40" height="40"/> </a>
 
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
