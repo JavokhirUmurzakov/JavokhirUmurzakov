@@ -48,7 +48,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img style="margin-top:40px;" src="https://www.pkisolutions.com/wp-content/uploads/2024/01/microsoft-server-2019-2.png" alt="github" width="140" height="50"/> </a>
 <a href="https://www.kali.org/tools/burpsuite/" target="_blank" rel="noreferrer"> <img style="margin-top:40px;" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="github" width="40" height="50"/> </a>
 <a href="https://www.kali.org/tools/burpsuite/" target="_blank" rel="noreferrer"> <img style="margin-top:40px;" src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="github" width="40" height="50"/> </a>
-<a href="https://www.kali.org/tools/burpsuite/" target="_blank" rel="noreferrer"> <img style="margin-top:40px;" src="https://image.pngaaa.com/692/562692-middle.png" alt="github" width="40" height="50"/> </a>
+<a href="https://www.kali.org/tools/burpsuite/" target="_blank" rel="noreferrer"> <img style="margin-top:40px;" src="https://www.seekpng.com/png/full/201-2015456_kali-linux-review-kali-linux-logo-png.png" alt="github" width="40" height="50"/> </a>
 
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
