@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JavokhirUmurzakov&label=Profile%20views&color=0e75b6&style=flat" alt="javokhirumurzakov" /> </p>
 
-- 🌱 I’m currently learning **Django, DRF and Postgresql**
+- 🌱 I’m currently learning **Django, DRF, Postgresql, docker, ngnix, gunicorn, celery,RabbitMQ**
 
 - 👨‍💻 All of my projects are available at [https://javokhir-umurzakov.uz/](https://javokhir-umurzakov.uz/)
 
