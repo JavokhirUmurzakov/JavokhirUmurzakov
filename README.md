@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://javokhir-umurzakov.uz/](https://javokhir-umurzakov.uz/)
 
-- 💬 Ask me about **Python, Django/Flask ,DRF, SQlite, Postgresql, SQL, HTML ,CSS ,RabbitMQ, Celery,Docker, Java,C++,Android Studio**
+- 💬 Ask me about **Python, Django/Flask ,DRF, SQlite, Postgresql, SQL, HTML ,CSS,JavaScript ,RabbitMQ, Celery,Docker, Java/Kotlin,C++,Android Studio**
 
 - 📫 How to reach me **javokhiruz2002@gmail.com**
   
