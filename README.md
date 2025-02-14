@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django, DRF, Postgresql, HTML, CSS, JavaScript, docker, ngnix, gunicorn, celery,RabbitMQ**
 
-- 👨‍💻 All of my projects are available at [https://javokhir-umurzakov.uz/](https://javokhir-umurzakov.uz/)
+- 👨‍💻 All of my projects are available at [https://javohir-blogs.uz/](https://javohir-blogs.uz/)
 
 - 💬 Ask me about **Python, Django/Flask ,DRF, SQlite, Postgresql, SQL, HTML ,CSS,JavaScript ,RabbitMQ, Celery,Docker, Java/Kotlin,C++,Android Studio,Windows Server,Kali Linux**
 
