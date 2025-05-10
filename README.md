@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Javokhir Umurzakov</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm FullStack Web Develover from Uzbekistan!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -8,11 +8,11 @@
 
 - 🌱 I have a experience **Django, DRF, Postgresql, HTML, CSS, JavaScript, docker, ngnix, gunicorn, celery,RabbitMQ,PHP,Laravel**
 
-- 👨‍💻 All of my projects are available at [https://javohir-blogs.uz/](https://javohir-blogs.uz/)
+- 👨‍💻 All of my projects are available at
 
 - 💬 Ask me about **Python, Django/Flask ,DRF, SQlite, Postgresql, SQL, HTML ,CSS,JavaScript ,RabbitMQ, Celery,Docker, Java/Kotlin,C++,Android Studio,Windows Server,Kali Linux**
 
-- 📫 How to reach me **javokhiruz2002@gmail.com**
+- 📫 How to reach me 
   
 - ⚡ Fun fact ****I think,I'm funny person!***
 
