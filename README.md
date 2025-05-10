@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/umurzakov_javokhir" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2021/11/telegram-logo.png" alt="umurzakov_javokhir" height="45" width="40" /></a>
-<a href="https://linkedin.com/in/JavokhirUmurzakov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/JavokhirUmurzakov/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bcp1ujojaq2abgvslbtvw2q%3d%3d" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24058189/javokhir-umurzakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24058189/javokhir-umurzakov" height="30" width="40" /></a>
-<a href="https://instagram.com/umurzakov_javokhir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/umurzakov_javokhir/" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2021/11/telegram-logo.png"  height="45" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"  height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
